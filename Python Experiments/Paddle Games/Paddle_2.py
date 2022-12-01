@@ -1,4 +1,5 @@
-#Simple Pong Game by Sebastian Grut, Following the tutorial https://www.youtube.com/watch?v=XGf2GcyHPhc&t=14s
+# Simple Pong Game by Sebastian Grut
+# Following on from Paddle_2, this version includes swifter movements of the paddles.
 
 
 import turtle

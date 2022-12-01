@@ -1,5 +1,8 @@
-#Simple Pong Game by Sebastian Grut, Following the tutorial https://www.youtube.com/watch?v=XGf2GcyHPhc&t=14s
+# Simple Pong Game by Sebastian Grut
+# Following the tutorial https://www.youtube.com/watch?v=XGf2GcyHPhc&t=14s
 
+# Pong game design follows the design by the number, ignoring the audio files.
+# Simply a learn learn the basics experience.
 
 import turtle
 
